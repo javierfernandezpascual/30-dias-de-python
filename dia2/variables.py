@@ -53,12 +53,12 @@ print(age=16)
 print(country=spain)
 
 help ("keywords")
-False                 class           from            or 
-None                   continue       global           pass
-True                   def           if               raise
-and                    del           import           return
-as                     elif            in                 try
-assert                 else            is              while
-async                  except        lambda            with
-await                  finally                         yield
+False                  class          from              or 
+None                   continue       global            pass
+True                   def            if                raise
+and                    del            import            return
+as                     elif           in                try
+assert                 else           is                while
+async                  except         lambda            with
+await                  finally                          yield
 break                  for            not 

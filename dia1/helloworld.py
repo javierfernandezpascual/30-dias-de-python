@@ -21,7 +21,7 @@ print(type("españa"))
 /level/3
 print(5-3)
 print(type(4-5))
-print(type(3x-1))
+print(type(3-1))
 print"fernandezz"
 print(10>7)
 print(10==7)

@@ -32,6 +32,23 @@ let triangle-perimeter = side a + side b + side c
 console.log("el perimetro del rectangulo es " + triangle_perimeter)
 
 const PI = 3,14
+let radius_num = parseInt(prompt("enter radius number:"))
+radius_squared = radius num * radius num 
+let circle_area = PI * radius_squared
+console.log("El area del circulo es " + circle_area)
+
+let base_num = parseInt(prompt("cual es la altura del triangulo"))
+let height_num = parseInt(prompt("cual es la altura del triangulo"))
+let triangle_area = 0.5 * base_num * height_num
+console.log("el area del triangulo es + "triangle_area)
+
+let circle_circum = 2 * PI * radius_num
+console.log("la circunferencia del circulo es " + circle_circum)
+
+let num_hours = parseInt(prompt("number of hours you work: "))
+let rate_hour = parseInt(prompt("amount you eran per hour: "))
+let day_pay = num_hours * rate_hour
+console.log("the amount of money you earn per day is + day_pay")
 
 
 
