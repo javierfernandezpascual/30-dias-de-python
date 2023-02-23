@@ -59,4 +59,3 @@ print(trailing.strip())
 correct_id = 'thirty_days_of_python'
 incorrect_id = '30daysofpython'
 print(correct_id.isidentifier())
-
